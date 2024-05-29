@@ -209,7 +209,7 @@ label{
 
 .hacker-img{
     /* border: 1px solid cyan; */
-    background: url("./assets/hacker.png") no-repeat center;
+    background: url("./hacker.png") no-repeat center;
     background-size: cover;
     background-color: black;
     background-blend-mode: hard-light;
